@@ -10,5 +10,6 @@ Email addresses will not be retrieved from sites that have not provided their ad
 
 ### The proxy addresses were used from github:https://github.com/mertguvencli/http-proxy-list/blob/main/proxy-list/data.txt
 
+### The program was written for educational purposes and is not intended to act in a way to cause a problem for any website!
 Thanks!
 
